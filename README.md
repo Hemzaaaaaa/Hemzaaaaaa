@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hemzaaaaaa
+- 👋 Hi, I’m @HamzaLamkhailif
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Javascript and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lamkhailifhamza@gmail.com
 - 😄 Pronouns: Hamza
